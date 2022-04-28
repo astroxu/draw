@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T07:35:12.572Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="hDxapogX_xAr9-bGbYRf" version="17.2.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-28T07:37:21.369Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="cQBoC4kXlm4DMfPcuxh_" version="17.2.6" type="github" pages="3">
   <diagram id="sKZ18Q_9JzX4SDILj4GE" name="服务关系图">
     <mxGraphModel dx="1406" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,7 +111,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8aKM9LNyqzDeqCLq5lPP" name="详细流程图">
-    <mxGraphModel dx="4461" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3859" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -556,6 +556,15 @@
             <mxPoint x="155.9050000000002" y="2359" as="sourcePoint" />
             <mxPoint x="155.9000000000001" y="2380.004801229115" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IJUBcqG4xjlxhmgSNN_N-205" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);rounded=1;align=left;dashed=1;sketch=1;" vertex="1" parent="D0R3tvfCUw0mEAUHzphH-38">
+          <mxGeometry x="20.47" y="1600" width="239.53" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="IJUBcqG4xjlxhmgSNN_N-206" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);rounded=1;align=left;dashed=1;sketch=1;" vertex="1" parent="D0R3tvfCUw0mEAUHzphH-38">
+          <mxGeometry x="20.71" y="1885" width="239.29" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="IJUBcqG4xjlxhmgSNN_N-207" value="" style="whiteSpace=wrap;html=1;fillColor=none;strokeColor=rgb(0, 0, 0);fontColor=rgb(0, 0, 0);rounded=1;align=left;dashed=1;sketch=1;" vertex="1" parent="D0R3tvfCUw0mEAUHzphH-38">
+          <mxGeometry x="25.83" y="2306" width="236.17" height="120" as="geometry" />
         </mxCell>
         <mxCell id="D0R3tvfCUw0mEAUHzphH-56" value="权益中心" style="swimlane;whiteSpace=wrap;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="-1194" y="70" width="281.5" height="2640" as="geometry" />
