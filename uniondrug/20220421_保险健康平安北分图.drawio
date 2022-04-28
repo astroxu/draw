@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-28T04:10:28.395Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="zWL7bKtW-6hsLP0rvCrX" version="17.2.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-28T04:11:17.023Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="b0r3MwN4IxzWIwILBGBD" version="17.2.6" type="github" pages="3">
   <diagram id="sKZ18Q_9JzX4SDILj4GE" name="服务关系图">
     <mxGraphModel dx="1406" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -115,24 +115,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Ed3RKfopH4gz7deCoAqT-1" value="采购单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ed3RKfopH4gz7deCoAqT-2" value="商品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="440" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ed3RKfopH4gz7deCoAqT-3" value="领取链接" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="540" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ed3RKfopH4gz7deCoAqT-4" value="用户 平安身份 &amp;nbsp;药联身份" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="350" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ed3RKfopH4gz7deCoAqT-5" value="用户领取记录(状态 是否核销)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="525" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ed3RKfopH4gz7deCoAqT-6" value="Vertical Container" style="swimlane;" vertex="1" parent="1">
-          <mxGeometry x="110" y="80" width="200" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="Ed3RKfopH4gz7deCoAqT-7" value="福联社用户端(小程序/PC)" style="swimlane;whiteSpace=wrap;sketch=1;" vertex="1" parent="1">
           <mxGeometry x="164" y="620" width="281.5" height="1892" as="geometry" />
         </mxCell>
@@ -862,6 +844,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vrV2-0hqsRB76AJo783i" name="数据库ER图">
+    <mxGraphModel dx="1406" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
